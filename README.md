@@ -7,7 +7,7 @@
 
 ## 💫 About Me :
 
-🔭 I’m currently working on full-stack web projects<br>👯 I’m looking to collaborate on big projects in web & IoT<br>🤝 I’m looking for help with AI Machine learning <br>🌱 I’m currently learning Java and IoT development<br>💬 Ask me about  React, Laravel, JavaScript, CSS, MySQL, Git, Agile, and automation<br>👨‍💻 How to reach me yahya.fullstack@gmail.com
+🔭 I’m currently working on full-stack web projects<br>👯 I’m looking to collaborate on big projects in web & RPA<br>🤝 I’m looking for help with AI Machine learning <br>🌱 I’m currently learning Java and problem solving<br>💬 Ask me about  React, Laravel, JavaScript, CSS, MySQL, Git, Agile, and automation<br>👨‍💻 How to reach me yahya.fullstack@gmail.com
 
 
 ## 🌐 Socials :
